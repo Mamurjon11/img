@@ -1,0 +1,29 @@
+.title {
+  text-align: center;
+  text-decoration-line: sans-serif;
+  color: green;
+}
+
+.text {
+  text-indent: 90px;
+  text-align: justify;
+  text-decoration: underline solid red;
+  text-transform: uppercase;
+  latter-spacing: 12px;
+  word-spacing: 30px;
+  line-height: 20px;
+  font-size: 16px;
+  font-family: sans-serif;
+  font-weight: 400;
+  font-style: oblique;
+}
+
+.card {
+  width: 300px;
+  height: 500px;
+  background: white;
+  border: solid 1px rgb(21, 21, 21);
+  margin: auto;
+  padding: 30px 35px 40px 50px;
+  box-sizing: border-box;
+}

@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>LESSON 2</title>
+  </head>
+  <body>
+    <!-- header start -->
+    <header style="background-color: dodgerblue">
+      <nav>
+        <ul>
+          <li>Home</li>
+          <li>About</li>
+          <li>Service</li>
+          <li>Contact</li>
+        </ul>
+      </nav>
+    </header>
+    <!-- header end -->
+
+    <main>
+      <!-- intro section starterd -->
+      <section style="height: 800px; background-color: rgb(243, 76, 255)">
+        <h2>About SECTION</h2>
+      </section>
+
+      <section style="height: 800px; background-color: aquamarine">
+        <h1>INTRO SECTION</h1>
+      </section>
+
+      <!-- about section starterd -->
+
+      <section style="height: 800px; background-color: rgb(243, 76, 255)">
+        <h2>About SECTION</h2>
+      </section>
+
+      <!-- service section starterd -->
+
+      <section style="height: 800px; background-color: rgb(105, 187, 223)">
+        <h2>Service SECTION</h2>
+      </section>
+    </main>
+
+    <footer style="background-color: darkgreen; color: white; height: 80px">
+      <p>2024</p>
+    </footer>
+  </body>
+</html>
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>LESSON 2</title>
+
+    <style>
+      .title {
+        /* text-align: center;
+        text-decoration-line: underline ;
+        text-decoration-style: dotted;
+         text-decoration-color: red; */
+                 text-decoration: underline solid red;
+        text-transform: uppercase;
+        letter-spacing: 12px;
+        word-spacing: 30px;
+        line-height: 1px;
+           
+
+
+      }
+
+      .text {
+        /* text-align: justify;
+        text-decoration-line:underline;
+        text-decoration-style: solid;
+        text-decoration-color: red; */
+        text-decoration: underline solid red;
+
+        font-size: 16px;
+        font-family: sans-serif;
+        font-weight: 400;
+        font-style: oblique;
+      }
+    </style>
+  </head>
+  <body>
+    <h1 class="title">WEB DEVEELEOPMENT</h1>
+    <p class="text">
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet ut nisi
+      voluptatibus eius. Iste nisi deleniti, voluptatibus placeat hic
+      consequuntur cumque excepturi eveniet nihil. Error maiores reiciendis hic
+      quis nam enim. Magni, enim. Reiciendis aliquam cum est, voluptas amet
+      iusto et incidunt neque, nobis adipisci dignissimos repellendus dicta
+      molestias hic rerum exercitationem magni sequi? Eos excepturi vitae culpa,
+      quod, dolore odit nam deleniti sequi pariatur maiores dignissimos eveniet
+      ipsum incidunt assumenda sunt deserunt. Veritatis saepe excepturi sequi ex
+      fugit natus sit modi adipisci, ullam qui quae commodi, cupiditate in vel
+      incidunt deserunt praesentium vitae eligendi distinctio. Reiciendis labore
+      incidunt ea. Autem totam necessitatibus voluptates numquam consectetur
+      sunt et expedita in, iusto culpa omnis. Laborum velit culpa asperiores ut
+      magnam aperiam perferendis iusto porro quaerat, recusandae fuga dolor
+      totam repudiandae numquam provident adipisci laudantium expedita!
+      Asperiores numquam maxime eaque tempora, nesciunt ipsa minima error.
+      Maxime omnis ducimus nisi dignissimos eius molestiae velit quae quod amet
+      exercitationem. Quia ipsam mollitia soluta natus vitae in illum quidem
+      accusamus veniam tenetur non animi sint velit ex, blanditiis praesentium,
+      fuga architecto temporibus at itaque est voluptate eius illo eaque? Quo,
+      nesciunt! Minima natus sint, corporis aliquam distinctio ratione
+      perferendis, ea fugiat labore optio porro quam neque recusandae tempora!
+      Quod amet velit, consequatur numquam doloremque similique ullam voluptatem
+      consequuntur sapiente. Vero adipisci quo, recusandae totam, fuga quaerat
+      nisi hic sunt dolorum ab magni unde quasi iste iure ad. Illo voluptate
+      fuga consectetur a aspernatur, delectus odit consequatur incidunt eius
+      magnam doloremque similique sapiente magni, tempora aperiam, autem iste
+      hic modi voluptas deserunt placeat fugit cum quis. Possimus deleniti
+      ratione, soluta maiores at minus. Reprehenderit perspiciatis deleniti
+      consequuntur nemo illo voluptates eius obcaecati laboriosam qui, libero,
+      totam non! Consequatur qui nulla doloribus quis eum totam perspiciatis
+      nostrum nemo, non molestias ipsam alias dolorum maxime doloremque tenetur
+      nam at odio repellat harum officia atque dignissimos, minima libero
+      similique! Eligendi natus, nihil vero officiis maxime neque maiores ipsa,
+      corrupti voluptatibus, perspiciatis consectetur iste! Tempore molestias
+      eos ex est quo? Id praesentium esse dignissimos voluptas vero, aspernatur
+      accusantium facilis tempora consequuntur inventore vel cum libero,
+      adipisci soluta nulla iure, aliquam ipsum. Nemo omnis illo provident
+      numquam rem doloribus blanditiis doloremque odio obcaecati a amet at non,
+      iusto consectetur dolores incidunt facere vero quos ducimus nam unde
+      magnam aperiam deleniti? Inventore eveniet libero quia quasi facere fuga
+      perferendis vitae nisi rerum ab maiores deserunt similique in doloremque
+      perspiciatis, nemo, vero distinctio. Ratione incidunt obcaecati,
+      dignissimos quam, voluptas accusantium laborum repellendus distinctio esse
+      quo delectus unde. Nulla aliquid alias aut soluta corrupti tempora nostrum
+      quod recusandae expedita quia maiores quasi rem quidem voluptatibus quis
+      doloribus corporis fugit sit consequatur, similique eaque magni officiis.
+      Dignissimos expedita deserunt maiores quia amet sequi quae nostrum aut
+      quisquam saepe nisi, optio sed voluptatem labore quasi. Rerum laborum
+      maxime dolores recusandae facilis eligendi culpa minima? Expedita debitis
+      officia eaque, quas dolore asperiores illum? Beatae natus quo, excepturi
+      aspernatur officiis, quis sequi in odio, ex recusandae numquam aut
+      pariatur perferendis provident laborum? Non nobis molestias ea incidunt
+      inventore!
+    </p>
+  </body>
+</html>
+
+
+
+
+
+
